@@ -1,6 +1,6 @@
 ## Investigate US Census / Gun-purchases Datasets
 
-### The purpose of this project is to explore the relationship (if any) between U.S gun purchases with US Census population data. The data used is from the FBI's National Instant Criminal Background Check System. 
+### The purpose of this data analysis, project is to explore the relationship (if any) between U.S gun purchases with US Census population data. The data used is from the FBI's National Instant Criminal Background Check System. 
 
 #### This project used Python to query and examine what (again, if any) correlates exist between one's state of residence and gun purchases and other related results which are useful for a variety of issues including potential research at the Centers for Disease Control (CDC) regarding gun-related incidents in America.
 
